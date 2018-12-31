@@ -1,0 +1,7 @@
+[package]
+name = "datamorpher"
+version = "0.1.0"
+authors = ["Vijay Kiran <mail@vijaykiran.com>"]
+edition = "2018"
+
+[dependencies]
