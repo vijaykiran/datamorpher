@@ -1,0 +1,16 @@
+name: datamorpher
+version: "0.1"
+author: Vijay Kiran <mail@vijaykiran.com>
+about: Morph Your Data!
+
+subcommands:
+  - init:
+      about: Initialize a DataMorpher project
+  - clean:
+      about: Clean the folders that are in the target list
+  - inspect:
+      about: Print helpful information about the tool and the project
+  - run:
+      about: Compile and run the datamorpher project
+  - seed:
+      about: Load the files from the seed CSV files into your datawareshouse
